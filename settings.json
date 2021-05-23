@@ -1,13 +1,13 @@
 {
-    "prefix": "",
-    "token": "",
-    "owner": "",
+    "prefix": "*",
+    "token": "ODQ1OTkyODQzNTIwMTE0NzA4.YKpCOw.8Wd-TnxY41IRjR03NeOZtZ5Zr9M",
+    "owner": "670515886297317398",
     "embed": {
-        "footer": "made by doge#1234",
+        "footer": "RehanPlayz",
         "color": {
             "error": 13382185,
             "default": "#0CDF66"
         }
     },
-    "panelURL": ""
+    "panelURL": "https://gamecp.quackhost.uk/"
 }
